@@ -20,6 +20,7 @@ public class Persona {
     }
     
     public void metodo02(){
+        System.out.println("HOLA :v");
     }
     
     //Sobrecarga de metodos
