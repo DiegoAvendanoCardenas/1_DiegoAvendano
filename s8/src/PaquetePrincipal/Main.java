@@ -16,11 +16,13 @@ public class Main {
        
         
        //Paquete 01
-       
+       objC01.a = 1;
        objC02.b = "hola";
        
        //Paquete 02
-       objC03.a = "hola 2";
+        
+       objC03.a = a;
+        objC04.b = "hola 2";
        
        
        
